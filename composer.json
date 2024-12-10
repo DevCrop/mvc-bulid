@@ -1,0 +1,16 @@
+{
+  "name": "edn_y/mvc-bulid",
+  "autoload": {
+    "psr-4": {
+      "EdnY\\MvcBulid\\": "src/",
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "DevCrop",
+      "email": "kingjon6157@gmail.com"
+    }
+  ],
+  "require": {}
+}
